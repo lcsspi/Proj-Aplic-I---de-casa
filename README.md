@@ -16,6 +16,10 @@ Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Datas
 ## Script
 O script utilizado para compor a Análise Exploratória dos Dados do Projeto podem ser encontrados na pasta [Script](./Script). Esses scripts foram desenvolvidos em Python e utilizam bibliotecas como pandas, seaborn e matplotlib.
 
+## Link da Apresentação
+Link de acesso para a apresentação do projeto:
+https://www.youtube.com/watch?v=C8VSVnp5NVM
+
 ## Membros do Grupo
 - **Brenno Monteiro de Oliveira**
 - **Bruno Fernandes Mascarini**
