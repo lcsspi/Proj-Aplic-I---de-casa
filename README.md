@@ -4,6 +4,7 @@
 - [Objetivo](#objetivo)
 - [Dataset](#dataset)
 - [Script](#script)
+- [Link da Apresentação](#Link-da-Apresentação)
 - [Membros do Grupo](#membros-do-grupo)
 
 ## Objetivo
