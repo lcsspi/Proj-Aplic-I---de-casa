@@ -4,6 +4,7 @@
 - [Objetivo](#objetivo)
 - [Dataset](#dataset)
 - [Script](#script)
+- [Documentação](#Documentação)
 - [Link da Apresentação](#Link-da-Apresentação)
 - [Membros do Grupo](#membros-do-grupo)
 
@@ -15,6 +16,9 @@ Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Datas
 
 ## Script
 O script utilizado para compor a Análise Exploratória dos Dados do Projeto podem ser encontrados na pasta [Script](./Script). Esses scripts foram desenvolvidos em Python e utilizam bibliotecas como pandas, seaborn e matplotlib.
+
+## Documentação
+A documentação final do projeto aplicado poderá ser encontrada na pasta [Documentação](./Documentação).
 
 ## Link da Apresentação
 Link de acesso para a apresentação do projeto:
